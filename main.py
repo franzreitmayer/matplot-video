@@ -53,7 +53,7 @@ line3, = ax.plot([], [], lw=2)
 
 ax.set_xlim(0, 800)
 
-ax.set_ylim(0, 10000)
+ax.set_ylim(0, 500000)
 
  
 
